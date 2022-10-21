@@ -9,7 +9,7 @@
  
  ## Skills
 <div style="display: inline_block"><br>
-  <img height="40" align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C++/C++-plain.svg">
+  <img height="40" align="center" alt="C++" height="30" width="40" src"https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
